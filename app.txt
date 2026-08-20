@@ -9,7 +9,7 @@
         "message_url": "https:\/\/example.com\/update",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.circ.puzzle.orgde.cric",
         "bottom_visible": "no",
-        "msg_visible": "no",
+        "msg_visible": "yes",
         "score_visible": "no",
         "default_link": "",
         "cat_icons": "{\"Cricket\":\"https:\\\/\\\/media2.giphy.com\\\/media\\\/v1.Y2lkPTZjMDliOTUyczRoMWQ3aDh1cjdwbjQxdTRtaHU0bGRmem15NmloOWR1YzJ5MDllNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw\\\/P1Ehxi4T3TkPZ6Frn4\\\/giphy.gif\",\"Football\":\"https:\\\/\\\/sportzfy.com\\\/wp-content\\\/uploads\\\/2025\\\/04\\\/fotballll.png\",\"Basketball\":\"https:\\\/\\\/sportzfy.com\\\/wp-content\\\/uploads\\\/2025\\\/03\\\/basketball.png\",\"Baseball\":\"https:\\\/\\\/sportzfy.com\\\/wp-content\\\/uploads\\\/2025\\\/03\\\/baseballl.png\",\"Boxing\":\"https:\\\/\\\/sportzfy.com\\\/wp-content\\\/uploads\\\/2025\\\/03\\\/boxingg.png\",\"Rugby\":\"https:\\\/\\\/sportzfy.com\\\/wp-content\\\/uploads\\\/2025\\\/04\\\/rugby70.png\",\"Motorsports\":\"https:\\\/\\\/sportzfy.com\\\/wp-content\\\/uploads\\\/2025\\\/03\\\/motorsportss.png\"}"
