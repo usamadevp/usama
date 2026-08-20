@@ -5,7 +5,7 @@
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.circ.puzzle.orgde.cric",
         "web_url": "https:\/\/example.com",
         "app_version": "0",
-        "message": "New update available!",
+        "message": "Give us 5 star rate \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f",
         "message_url": "https:\/\/example.com\/update",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.circ.puzzle.orgde.cric",
         "bottom_visible": "no",
