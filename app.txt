@@ -11,7 +11,7 @@
         "bottom_visible": "no",
         "msg_visible": "yes",
         "score_visible": "no",
-        "default_link": "",
+        "default_link": "{\"name\":\"English 1 Willow ( \ud83c\udf10 )\",\"subTitle\":\"FHD Auto Quality \",\"link\":\"https:\\\/\\\/otte.cache.aiv-cdn.net\\\/bom-nitro\\\/live\\\/clients\\\/dash\\\/enc\\\/tll6uwepxa\\\/out\\\/v1\\\/a7f67cbb33df46539312956427343886\\\/cenc.mpd\",\"api\":\"290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247\",\"tokenApi\":\"\",\"scheme\":0}",
         "cat_icons": "{\"Cricket\":\"https:\\\/\\\/media2.giphy.com\\\/media\\\/v1.Y2lkPTZjMDliOTUyczRoMWQ3aDh1cjdwbjQxdTRtaHU0bGRmem15NmloOWR1YzJ5MDllNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw\\\/P1Ehxi4T3TkPZ6Frn4\\\/giphy.gif\",\"Football\":\"https:\\\/\\\/sportzfy.com\\\/wp-content\\\/uploads\\\/2025\\\/04\\\/fotballll.png\",\"Basketball\":\"https:\\\/\\\/sportzfy.com\\\/wp-content\\\/uploads\\\/2025\\\/03\\\/basketball.png\",\"Baseball\":\"https:\\\/\\\/sportzfy.com\\\/wp-content\\\/uploads\\\/2025\\\/03\\\/baseballl.png\",\"Boxing\":\"https:\\\/\\\/sportzfy.com\\\/wp-content\\\/uploads\\\/2025\\\/03\\\/boxingg.png\",\"Rugby\":\"https:\\\/\\\/sportzfy.com\\\/wp-content\\\/uploads\\\/2025\\\/04\\\/rugby70.png\",\"Motorsports\":\"https:\\\/\\\/sportzfy.com\\\/wp-content\\\/uploads\\\/2025\\\/03\\\/motorsportss.png\"}"
     }
 ]
